@@ -165,10 +165,10 @@ ul li{
 
 ul li:before {
   content: "➻";
-  font-size: 1.5em;
+  font-size: 1em;
   color: #00B278;
   position: absolute;
   left: -1em;
-  top: -0.2em;
+  top: -0.1em;
 }
 
