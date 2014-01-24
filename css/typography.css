@@ -134,8 +134,8 @@ a:active {
 }
 
 blockquote {
-	color: #666;
-	border-left: 0.2em solid #e9e9e9;
+	color: #424C47;
+	border-left: 0.2em solid rgba(0, 178, 120, 0.5);
 	padding: 0 1.5em 0 1em;
 }
 
@@ -154,22 +154,20 @@ td, th {
 	vertical-align: top;
 }
 
-.list-group {
-	padding: 0;
-	list-style-type: none;
+
+ul{
+  list-style-type:none;
 }
 
-.list-group-item {
-	display: block;
+ul li{
+  position:relative; /*cordinate of anything inside the ul is base on the ul*/
 }
-
-/*.list-group-item-inline {
-	display: inline-block;
-}*/
 
 ul li:before {
-  content: "➨";
-  color: #999;
+  content: "➻";
+  font-size: 1.5em;
+  color: #00B278;
   position: absolute;
   left: -1em;
+  top: -0.2em;
 }
