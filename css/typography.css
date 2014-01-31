@@ -1,6 +1,11 @@
 /*
   Colour Palette
   - Salmon: #FF8769- rgb(255, 135, 105)
+  light pink: #F24150
+Baby Blue: #96D9D2
+
+  ORANGE :  #D85F0B
+            #e5650c;
   - Peach:; #FF5D3C - rgb(255, 93, 60)
   - Light green: #00B278 - rgb(0, 178, 120)
  */
@@ -137,9 +142,27 @@ blockquote {
 	padding: 0 1.5em 0 1em;
 }
 
-.highlighted {
+abbr {
+  border-bottom: 0.1em dotted rgba(0,0,0,0.5);
+
+  cursor: help;
+}
+
+ins {
+  border-bottom: 0.1em dotted rgba(0,0,0,0.5);
+
+  color: #000;
+  text-decoration: none;
+}
+
+del {
+  color: rgba(0,0,0,0.5);
+}
+
+mark {
 	background-color: #ABFFD5;
 }
+
 th {
 	color: #00B278;
 }
