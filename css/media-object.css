@@ -20,5 +20,10 @@
 
 .media-body {
 	overflow: hidden;
+	margin-bottom: 1rem;
+
 }
 
+.border-bt {
+		border-bottom: 1px solid #FF5D3C;
+}
