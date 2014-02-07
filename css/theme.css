@@ -9,11 +9,11 @@ body {
 
 }
 .logo {
-	max-width: 256px;
+	max-width: 100px;
 	margin: 0 auto;
 }
 
-@media only screen and (min-width:50em) {
+@media only screen and (min-width:30em) {
 	.logo {
 		margin: 0;
 	}
