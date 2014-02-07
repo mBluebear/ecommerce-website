@@ -1,0 +1,7 @@
+.footer-links li img {
+	max-width: 50px;
+}
+
+.footer-links li a {
+	border-bottom: none;
+}
