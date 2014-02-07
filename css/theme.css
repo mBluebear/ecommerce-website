@@ -35,3 +35,13 @@ body {
 		text-align: right;
 	}
 }
+
+.footer_links {
+	text-align: center;
+
+}
+@media only screen and (min-width: 50em) {
+	.footer_links {
+		text-align: right;
+}
+
