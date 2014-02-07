@@ -4,10 +4,12 @@ body {
 	padding:0;
 }
 
-.masthead {
+.masthead,
+.footer {
 	background-color: #FF5D3C;
-
 }
+
+
 .logo {
 	max-width: 100px;
 	margin: 0 auto;
