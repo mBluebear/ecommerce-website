@@ -111,7 +111,9 @@ small, .milli {
 .pad-bottom-half, .pad-b-1-2 {
   padding-bottom: 0.7500rem;
 }
-
+.pad-left {
+    padding-left: 1rem;
+}
 .island {
   margin-bottom: 1.5rem;
   padding: 1.5rem;
@@ -154,6 +156,8 @@ h1, h2, h3, h4, h5, h6,
 .brand-color {
   color: #D85F0B;
 }
+
+
 
 ::selection {
   background-color: #00B278;
