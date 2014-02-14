@@ -13,20 +13,26 @@
   <link href="../css/list-group.css" rel="stylesheet">
   <link href="../css/buttons.css" rel="stylesheet">
   <link href="../css/media-object.css" rel="stylesheet">
-  <link href="../css/embeded.css" rel="stylesheet">
+  <link href="../css/embed.css" rel="stylesheet">
   <link href="../css/grid.css" rel="stylesheet">
   <link href="../css/theme.css" rel="stylesheet">
+  <link href="../css/forms.css" rel="stylesheet">
 </head>
 
 <body>
 <header class="masthead">
-  <div class="grid">
+  <div class="grid nav-container">
     <div class="unit unit-s-1 unit-m-1 unit-l-1-3">
       <h1><img class="img-flex logo" src="../images/logo.svg" alt="Tempting Treats"></h1>
     </div>
 
     <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
-      <ul class="list-group giga brand-white nav">
+
+        <form method="get" action="/search" id="search">
+            <input name="q" type="text" size="40" placeholder="Search..." />
+        </form>
+
+      <ul class="list-group giga nav-content nav">
         <li class="list-group-item list-group-item-inline">
           <a href="#aboutus">About Us</a>
         </li>
@@ -37,7 +43,10 @@
           <a href="#Cakes">Cakes</a>
         </li>
       </ul>
+
+
     </nav>
+
   </div>
 </header>
 </body>

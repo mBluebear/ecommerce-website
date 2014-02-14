@@ -150,9 +150,7 @@ h1, h2, h3, h4, h5, h6,
   font-family: "Cardo",serif;
 }
 
-.brand-white {
-  color: #ffffff;
-}
+
 .brand-color {
   color: #D85F0B;
 }
@@ -164,21 +162,21 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-	color: #FF8769;
+	color: #ffffff;
 	text-decoration: none;
-	border-bottom: 0.1em solid rgba(255, 135, 105, 0.5);
+
 }
 
 a:visited {
-	color: #FFA49A;
-	border-bottom-color: rgba(255, 164, 154, 0.5);
+	color: #ffe4a5;
+
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #FF492A;
-	border-bottom-color: #FF492A;
+	color: #ffaa97;
+
 }
 
 .light-green {
@@ -210,7 +208,7 @@ del {
 }
 
 mark {
-	background-color: #ABFFD5;
+	background-color: #ffe4a5;
 }
 
 th {
