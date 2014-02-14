@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/footer.css" afterPath="$PROJECT_DIR$/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/forms.css" afterPath="$PROJECT_DIR$/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="$PROJECT_DIR$/css/grid.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/header.html" afterPath="$PROJECT_DIR$/styleguide/header.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/product-details.html" afterPath="$PROJECT_DIR$/styleguide/product-details.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/promo-small.html" afterPath="$PROJECT_DIR$/styleguide/promo-small.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme.css" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/typography.css" afterPath="$PROJECT_DIR$/css/typography.css" />
     </list>
     <ignored path="ecommerce-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +37,7 @@
       <file leaf-file-name="promo-small.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styleguide/promo-small.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="79" selection-start="2105" selection-end="2105" vertical-scroll-proportion="0.52978057" vertical-offset="517" max-vertical-offset="1245">
+            <state line="55" column="79" selection-start="2317" selection-end="2317" vertical-scroll-proportion="0.85893416" vertical-offset="277" max-vertical-offset="1215">
               <folding />
             </state>
           </provider>
@@ -420,7 +413,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/styleguide/promo-small.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="79" selection-start="2105" selection-end="2105" vertical-scroll-proportion="0.52978057" vertical-offset="517" max-vertical-offset="1245">
+        <state line="55" column="79" selection-start="2317" selection-end="2317" vertical-scroll-proportion="0.85893416" vertical-offset="277" max-vertical-offset="1215">
           <folding />
         </state>
       </provider>
