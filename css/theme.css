@@ -69,6 +69,11 @@ body {
 .nav-content {
     text-align: center;
 }
+
+.current {
+    background-color: #ff1a2c;
+    color: #ffffff;
+}
 @media only screen and (min-width:60em) {
 	.nav {
 		margin-top: 40px;
