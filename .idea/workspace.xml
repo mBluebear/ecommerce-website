@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/banner.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/promo-small.html" afterPath="$PROJECT_DIR$/_includes/promo-small.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <ignored path="ecommerce-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="about.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="6" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.6818182" vertical-offset="0" max-vertical-offset="638">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="promo-large.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/promo-large.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="62" selection-start="274" selection-end="274" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="300">
+            <state line="7" column="29" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -55,19 +61,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="promo-small.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="217" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="banner.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="banner.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/banner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0921659" vertical-offset="0" max-vertical-offset="651">
+            <state line="4" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
               <folding />
             </state>
           </provider>
@@ -76,7 +73,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="540">
+            <state line="12" column="0" selection-start="544" selection-end="1255" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -147,11 +144,11 @@
         <option value="$PROJECT_DIR$/_layouts/cupcake.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/promo-large.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/thank-you.html" />
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/_includes/promo-small.html" />
         <option value="$PROJECT_DIR$/_includes/banner.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -633,37 +630,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="145" selection-end="145" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/typography.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="1" selection-start="653" selection-end="659" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="3840">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="12" selection-start="556" selection-end="556" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/promo-large.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="62" selection-start="274" selection-end="274" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="217" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="180">
           <folding />
         </state>
       </provider>
@@ -677,7 +646,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/banner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="0.0921659" vertical-offset="0" max-vertical-offset="651">
+        <state line="4" column="0" selection-start="147" selection-end="147" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="19" selection-start="127" selection-end="127" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/promo-large.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="29" selection-start="241" selection-end="241" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="544" selection-end="1255" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="6" selection-start="1306" selection-end="1306" vertical-scroll-proportion="0.6818182" vertical-offset="0" max-vertical-offset="638">
           <folding />
         </state>
       </provider>
