@@ -1,0 +1,26 @@
+--
+layout: default
+tittle: Cupcakes
+--
+
+<div class="grid">
+    <div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
+        <h1>Well come to Tasting Treats</h1>
+    </div>
+    <div class="unit unit-s-1 unit-m-1-2 unit-l-2-3">
+        <p>Fresh baked straight from the oven</p>
+    </div>
+</div>
+
+<ul>
+    {% for cupcake in site.page %
+        {% if cupcake.catafory == 'cupcake' %}
+            <li>
+                    <a href="{{site.baseurl}}{{cupcake.url}}">
+                        <img src="{{site.baseurl}}/imgages/{{cupcake.images}}" alt=""">
+                        {{cupcake.name}}
+                </a>
+            </li>
+        {% endif %}
+    {% endfor %}
+</ul>
