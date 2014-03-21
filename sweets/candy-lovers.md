@@ -1,8 +1,8 @@
 ---
 layout: sweets
-categogy: sweets
+category: sweets
 title:  Candy Lovers
-Type: cupcakes
+type: cupcakes
 image: cupcake/4.jpg
 ---
 Our very moist Vanilla Bean Cake frosted with our Peppermint White Chocolate Cream Cheese and topped with blue.

@@ -1,7 +1,7 @@
 ---
 layout: sweets
 category: sweets
-title: Creamy Creme
+title: Creamy Creme Brulee
 type: cupcakes
 image: cupcake/2.jpg
 ---

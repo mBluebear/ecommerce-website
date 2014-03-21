@@ -1,6 +1,6 @@
 ---
-layout: default
-category:
+layout: sweets
+category: sweets
 title: New York Cheesecake
 type: cake
 image: cake/c4.jpg

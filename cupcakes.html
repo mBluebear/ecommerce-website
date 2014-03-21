@@ -1,0 +1,14 @@
+---
+layout: sweets
+---
+
+<h1>Cupcakes</h1>
+<ul>
+    {% for sweets in site.categories.cupcakes %}
+    <li>
+        <a href="">{{cupcakes.title}}</a>
+        <p>{{cupcakes.meta}}</p>
+
+    </li>
+    {% endfor %}
+</ul>

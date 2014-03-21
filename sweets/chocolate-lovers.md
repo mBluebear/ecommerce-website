@@ -1,6 +1,6 @@
 ---
 layout: sweets
-categogy: sweets
+category: sweets
 title: Chocolate Lovers
 Type: cupcakes
 image: cupcake/3.jpg
