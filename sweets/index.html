@@ -1,7 +1,7 @@
---
+---
 layout: default
-tittle: sweets
---
+title: Sweets
+---
 
 <div class="grid">
     <div class="unit unit-s-1 unit-m-1-2 unit-l-1-3">
@@ -13,14 +13,15 @@ tittle: sweets
 </div>
 
 <ul>
-    {% for cupcake in site.page %
-        {% if cupcake.catagory == 'sweets' %}
-            <li>
-                    <a href="{{site.baseurl}}{{sweets.url}}">
-                        <img src="{{site.baseurl}}/image/{sweets.images}}" alt="">
-                        {{sweets.tittle}}
-                </a>
-            </li>
-        {% endif %}
+    {% for sweets in site.pages %}
+    {% if sweets.category == 'sweets' %}
+    <li>
+        <a href="{{site.baseurl}}{{sweets.url}}">
+            <img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" width="200">
+        {{sweets.title}}
+        </a>
+    </li>
+    {% endif %}
     {% endfor %}
 </ul>
+
