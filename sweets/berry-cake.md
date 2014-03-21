@@ -8,4 +8,5 @@ image: cake/c1.jpg
 
 Try our delicious berry cake with lots of berry.
 
-![]({{site.baseurl}}/images/c1.jpg)
+![]({{site.baseurl}}/images/cake/c1.jpg)
+

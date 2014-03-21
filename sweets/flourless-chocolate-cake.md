@@ -12,4 +12,4 @@ When you crave a knock-out chocolate punch in an unassuming delivery, the flourl
 - Flourless
 - Gluten-free
 
-![]({{site.baseurl}}/images/c2.jpg)
+![]({{site.baseurl}}/images/cake/c2.jpg)

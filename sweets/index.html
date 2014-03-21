@@ -12,12 +12,14 @@ title: Sweets
     </div>
 </div>
 
+{% include sweet-nav.html %}
+
 <ul>
     {% for sweets in site.pages %}
     {% if sweets.category == 'sweets' %}
     <li>
         <a href="{{site.baseurl}}{{sweets.url}}">
-            <img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" width="200">
+            <img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" width="400">
         {{sweets.title}}
         </a>
     </li>
