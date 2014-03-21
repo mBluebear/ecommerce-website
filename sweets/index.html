@@ -14,11 +14,11 @@ tittle: sweets
 
 <ul>
     {% for cupcake in site.page %
-        {% if cupcake.catagory == 'cupcake' %}
+        {% if cupcake.catagory == 'sweets' %}
             <li>
-                    <a href="{{site.baseurl}}{{cupcake.url}}">
-                        <img src="{{site.baseurl}}/imgages/{{cupcake.images}}" alt="">
-                        {{cupcake.name}}
+                    <a href="{{site.baseurl}}{{sweets.url}}">
+                        <img src="{{site.baseurl}}/image/{sweets.images}}" alt="">
+                        {{sweets.tittle}}
                 </a>
             </li>
         {% endif %}
