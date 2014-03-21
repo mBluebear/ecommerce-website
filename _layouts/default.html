@@ -2,7 +2,7 @@
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
-  <title>Tempting Treats</title>
+  <title>{{page.title}} - Tempting Treats</title>
   <meta name="handheldfriendly" content="true">
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -32,29 +32,28 @@
             <h1><img class="img-flex logo" src="{{site.baseurl}}/images/logo.svg" alt="Tempting Treats"></h1>
         </div>
 
-        <nav class="unit unit-s-1 unit-m-1 unit-l-2-3">
+        <div class="unit unit-s-1 unit-m-1 unit-l-2-3">
 
             <form method="get" action="/search" id="search">
                 <input name="q" type="text" size="40" placeholder="Search..." />
             </form>
 
-            <ul class="list-group giga nav-content nav">
-                <li class="list-group-item list-group-item-inline">
-                    <a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
-                </li>
-                <li class="list-group-item list-group-item-inline">
-                    <a class="{% if page.url contains 'cupcake' %}current{% endif %}" href="{{site.baseurl}}/cupcake/">Cupcake</a>
-                </li>
-                <li class="list-group-item list-group-item-inline">
-                    <a class="{% if page.url contains 'cakes' %}current{% endif %}" href="{{site.baseurl}}/cakes/">Cakes</a>
-                </li>
-                <li class="list-group-item list-group-item-inline">
-                    <a class="{% if page.url contains 'about' %}current{% endif %}" href="{{site.baseurl}}/about/">About</a>
-                </li>
-            </ul>
+        </div>
 
-
-        </nav>
+        <ul class="list-group giga nav-content nav">
+            <li class="list-group-item list-group-item-inline">
+                <a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
+            </li>
+            <li class="list-group-item list-group-item-inline">
+                <a class="{% if page.url contains 'cupcake' %}current{% endif %}" href="{{site.baseurl}}/cupcake/">Cupcake</a>
+            </li>
+            <li class="list-group-item list-group-item-inline">
+                <a class="{% if page.url contains 'cakes' %}current{% endif %}" href="{{site.baseurl}}/cakes/">Cakes</a>
+            </li>
+            <li class="list-group-item list-group-item-inline">
+                <a class="{% if page.url contains 'about' %}current{% endif %}" href="{{site.baseurl}}/about/">About</a>
+            </li>
+        </ul>
 
     </div>
 </header>

@@ -4,7 +4,7 @@ body {
 	padding:0;
 }
 
-.masthead,
+
 .footer {
 	background-color: #FF5D3C;
 }
@@ -52,18 +52,14 @@ body {
 	text-align: center;
 }
 
+.nav li {
+
+}
+
 .nav a {
 	display: inline-block;
-	margin: 0 0.4em;
-}
-
-.nav li::after {
-    content: '☁︎';
-    color: #ffffff;
-}
-
-.nav li:last-child::after {
-    content: none;
+    padding: 15px 12px;
+    border-radius: 5px 5px 0px 0px;
 }
 
 .nav-content {
@@ -71,14 +67,17 @@ body {
 }
 
 .current {
-    background-color: #ff1a2c;
+    background-color: #ff4444;
     color: #ffffff;
 }
 @media only screen and (min-width:60em) {
 	.nav {
-		margin-top: 40px;
+        width: 100%;
 		text-align: right;
-        margin-right: 45px;
+        background: #78dbf2;
+        border-bottom: 7px #ff4444 solid;
+        margin: 0px;
+        padding-right: 20px;
 	}
     .logo {
         margin: 12px 0px 0px 20px;

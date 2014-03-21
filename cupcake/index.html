@@ -1,6 +1,6 @@
 --
 layout: default
-tittle: Cupcakes
+tittle: sweets
 --
 
 <div class="grid">
@@ -14,10 +14,10 @@ tittle: Cupcakes
 
 <ul>
     {% for cupcake in site.page %
-        {% if cupcake.catafory == 'cupcake' %}
+        {% if cupcake.catagory == 'cupcake' %}
             <li>
                     <a href="{{site.baseurl}}{{cupcake.url}}">
-                        <img src="{{site.baseurl}}/imgages/{{cupcake.images}}" alt=""">
+                        <img src="{{site.baseurl}}/imgages/{{cupcake.images}}" alt="">
                         {{cupcake.name}}
                 </a>
             </li>
