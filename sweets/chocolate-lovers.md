@@ -1,13 +1,12 @@
 ---
-layout: sweets
+layout: product
 category: sweets
 title: Chocolate Lovers
-Type: cupcake
+type: cupcake
+description: Our signature Dark Chocolate Cake with Milk Chocolate Frosting, topped with Chocolate Shavings.
+price: $4.00
 image: cupcake/3.jpg
 ---
 
-Our signature Dark Chocolate Cake with Milk Chocolate Frosting, topped with Chocolate Shavings.
 
-![](site.baseurl}}/images/cupcake/3.jpg)
-
-
+![]({{site.baseurl}}/images/cupcake/3.jpg)
