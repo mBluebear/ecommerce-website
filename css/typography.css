@@ -112,7 +112,7 @@ small, .milli {
   padding-bottom: 0.7500rem;
 }
 .pad-left {
-    padding-left: 1rem;
+    padding-left: 1rem !important;
 }
 .island {
   margin-bottom: 1.5rem;
