@@ -8,11 +8,10 @@ layout: sweets
     {% if sweet.type == 'cupcake' %}
     <li>
         <a href="{{site.baseurl}}{{sweet.url}}">
-        <img class="img-flex" src="{{site.baseurl}}/images/{sweets.image}}" alt="" width="400">
-{{sweets.title}}
+            <img src="{{site.baseurl}}/images/{sweets.image}}" alt="" width="400">
+            {{sweets.title}}
         </a>
     </li>
     {% endif %}
     {% endfor %}
 </ul>
-

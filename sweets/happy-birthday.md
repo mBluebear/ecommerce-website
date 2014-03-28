@@ -2,7 +2,7 @@
 layout: sweets
 category: sweets
 title: Happy Birthday
-type: cupcakes
+type: cupcake
 image: cupcake/5.jpg
 ---
 

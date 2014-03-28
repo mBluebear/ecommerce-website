@@ -2,7 +2,7 @@
 layout: sweets
 category: sweets
 title: Coconut cupcake
-type: cupcakes
+type: cupcake
 image: cupcake/1.jpg
 ---
 
