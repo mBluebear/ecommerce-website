@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/promo-small.html" afterPath="$PROJECT_DIR$/_includes/promo-small.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.html" afterPath="$PROJECT_DIR$/search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecommerce-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +28,7 @@
       <file leaf-file-name="creamy-creme-brulee.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sweets/creamy-creme-brulee.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+            <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -45,19 +43,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="search.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/search.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="67" selection-start="836" selection-end="836" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="495">
+            <state line="17" column="91" selection-start="599" selection-end="599" vertical-scroll-proportion="0.4009434" vertical-offset="0" max-vertical-offset="636">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="promo-small.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="promo-small.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="38" selection-start="164" selection-end="164" vertical-scroll-proportion="0.06933744" vertical-offset="0" max-vertical-offset="649">
+            <state line="3" column="38" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
               <folding />
             </state>
           </provider>
@@ -94,15 +92,6 @@
         <entry file="file://$PROJECT_DIR$/styleguide/promo-large.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="23" column="36" selection-start="848" selection-end="856" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cart.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cart.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="22" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="660">
               <folding />
             </state>
           </provider>
@@ -179,8 +168,8 @@
         <option value="$PROJECT_DIR$/_layouts/product.html" />
         <option value="$PROJECT_DIR$/cart.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/search.html" />
         <option value="$PROJECT_DIR$/_includes/promo-small.html" />
+        <option value="$PROJECT_DIR$/search.html" />
       </list>
     </option>
   </component>
@@ -534,14 +523,6 @@
         <state line="12" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sweets/coconut-cake.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="285" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sweets/flourless-chocolate-cake.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="360" />
@@ -626,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sweets/creamy-creme-brulee.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cart.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="22" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0" vertical-offset="10" max-vertical-offset="660">
@@ -691,16 +662,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/search.html">
+    <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="67" selection-start="836" selection-end="836" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="495">
+        <state line="3" column="38" selection-start="164" selection-end="164" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="210">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/promo-small.html">
+    <entry file="file://$PROJECT_DIR$/sweets/coconut-cake.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="38" selection-start="164" selection-end="164" vertical-scroll-proportion="0.06933744" vertical-offset="0" max-vertical-offset="649">
+        <state line="6" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="0.13931888" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sweets/creamy-creme-brulee.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="91" selection-start="599" selection-end="599" vertical-scroll-proportion="0.4009434" vertical-offset="0" max-vertical-offset="636">
           <folding />
         </state>
       </provider>
