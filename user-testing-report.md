@@ -1,44 +1,42 @@
 # User Testing Report
 
-User testing was conducted by {your name} on {specific date} between the times of {start time} and {end time} with the following participants:
+User testing was conducted by {Quynh Nguyen} on {April 2} between the times of {1.00 pm} and {7:00 pm} with the following participants:
 
-- {Jane Doe}
-- {John Doe}
-- {Jordan Doe}
+- {Joey Anh Huynh}
+- {Nicholle Veiro}
+- {Cuong Nguyen}
 
 ## Tasks
 
-1. {First task description here}
-2. {Second task description here}
-3. {Third task description here}
+1. {Look for Tiramisu cake}
+2. {browsing the site and buy a cupcake}
+3. {Buy the Coconut cupcake}
 
 ---
 
 ## Individual Results & Observations
 
-### {Jane Doe}
+### {Joey Anh Huynh}
 
-- {She clicked on the link as expected…}
-- {She had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+- {She found the cake easily.}
+- {She had troubles with looking for the store address and business hours.}
+- {The links of two of my cake in the thank you page are broken.}
 
-### {John Doe}
 
-- {He clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {He asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+### {Nichole Veiro}
 
-### {Jordan Doe}
+- {She have no trouble with browsing, but after buying a cake, she clicked on a link on a cake on tha thank you page, it's broken.}
+- {the padding of many sections bother her}
+- {She couldn't find the store address and business hours)
 
-- {She clicked on the link as expected…}
-- {He had troubles completing a specific task…}
-- {She asked these questions…}
-- {Fill in any observations that were important/relevant…}
-- etc.
+
+### {Cuong Nguyen}
+
+- {He found the cake easily}
+- {He hates the padding of my website}
+- {I have to work more in the design part to make it more appealing }
+- {The links of two of my cake in the thank you page are broken.}
+
 
 ---
 
@@ -46,15 +44,14 @@ User testing was conducted by {your name} on {specific date} between the times o
 
 ### Critical, Needs Fixing, Unable to Complete
 
-- {All participants had this problem…}
-- etc.
+- {The links of two of my cake in the thank you page are broken.}
+
 
 ### Serious, Causes Frustration, May Hinder Completion
 
-- {Two of the participants succeeded where one of them failed…}
-- etc.
+- {I have padding issue, need to work more to make the page look more appealing}
+
 
 ### Minor, Annoying, Won’t Hinder Completion
 
-- {Participants pointed out this inconsistency…}
-- etc.
+- {Need to added Address and business hours}
