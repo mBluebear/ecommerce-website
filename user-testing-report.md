@@ -1,3 +1,8 @@
+---
+layout: default
+title: user-testing
+---
+
 # User Testing Report
 
 User testing was conducted by {Quynh Nguyen} on {April 2} between the times of {1.00 pm} and {7:00 pm} with the following participants:
