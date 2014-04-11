@@ -3,12 +3,27 @@
 }
 
 .banner {
-    background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
-    background-size: cover;
-    padding: 5em 1em 1em;
-    text-align: center;
+
+
 }
 
-.banner h2 {
-    color: #000000;
+
+.left-text h2 {
+    color: #000;
+    margin-bottom: 0px;
+}
+.left-text {
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+.right-text {
+    position: absolute;
+    right: 10%;
+    top: 10%;
+    color: #fff;
+}
+.right-text h2 {
+    color: #fff;
+    margin-bottom: 0px;
 }

@@ -7,18 +7,18 @@ Baby Blue: #96D9D2
   ORANGE :  #D85F0B
             #e5650c;
   - Peach:; #FF5D3C - rgb(255, 93, 60)
-  - Light green: #00B278 - rgb(0, 178, 120)
+  - Light green: #33cccc - rgb(51, 204, 204)
  */
 
 html {
   font: normal 100%/1.5 'Quattrocento Sans', sans-serif; /* 16px/24px */
 }
 
-/*font-family: 'Cardo', serif;
+/*font-family: 'Elsie', serif;
 font-family: 'Quattrocento Sans', sans-serif;*/
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Cardo', serif;
+	font-family: 'Elsie', serif;
 	color: #FF5D3C;
 }
 
@@ -145,11 +145,11 @@ small, .milli {
 h1, h2, h3, h4, h5, h6,
 .brand {
   color: #D85F0B;
-  font-family: "Cardo",serif;
+  font-family: "Elsie",serif;
 }
 
 .brand-family {
-  font-family: "Cardo",serif;
+  font-family: "Elsie",serif;
 }
 
 

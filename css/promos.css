@@ -9,3 +9,22 @@
 	padding: 1em;
 
 }
+
+.promo-large {
+    position: relative;
+}
+
+.promo-text {
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    background: url(../images/big-promo-bg-square.png) repeat;
+    border-radius: 5px;
+    top: 30%;
+    left: 10%;
+    padding: 1%;
+}
+
+.promo-text h2 {
+
+}

@@ -7,7 +7,7 @@
   <meta name="mobileoptimized" content="240">
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
-    <link href='http://fonts.googleapis.com/css?family=Quattrocento+Sans:400,400italic,700|Cardo:400,700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Elsie|Quattrocento+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href="{{site.baseurl}}/css/common.css" rel="stylesheet">
     <link href="{{site.baseurl}}/css/typography.css" rel="stylesheet">
     <link href="{{site.baseurl}}/css/list-group.css" rel="stylesheet">
@@ -26,23 +26,43 @@
 <body>
 
 
+{% if page.showbanner %}
+    <div class="banner">
+        <img src="{{site.baseurl}}/images/banner.png" class="img-flex">
+        <div class="left-text">
+            <h2>Free  Delivery over 40$</h2>
+            44 Bank st, Ottawa, K2G 1C2<br />
+            613. 747. 7777
+        </div>
+
+        <div class="right-text">
+            <h2>Business Hours</h2>
+            Mon – Thu: 8.00 am – 9:00 pm<br />
+            Sat – Sun: 10:00 am – 6:00 pm
+        </div>
+    </div>
+    {% endif %}
+
+
 <header class="masthead" role="banner">
     <div class="grid nav-container">
         <div class="unit unit-s-1 unit-m-1 unit-l-1-3">
-            <h1><img class="img-flex logo" src="{{site.baseurl}}/images/logo.svg" alt="Tasting Treats"></h1>
+            <h1><img class="img-flex logo" src="{{site.baseurl}}/images/logo.png" alt="Tasting Treats"></h1>
         </div>
 
-        <div class="unit unit-s-1 unit-m-1 unit-l-2-3">
+        <div class="unit unit-s-1 unit-m-1 unit-l-2-3 pad-t-1-2 gutter">
 
             <form method="get" action="{{site.baseurl}}/search" id="search" role="search">
                 <input name="q" type="text" size="40" placeholder="Search..." />
+                <a href="#"><img src="{{site.baseurl}}/images/icons/cart.png" id="cart-icon" class="search-icon"></a>
+                <a href="#"><img src="{{site.baseurl}}/images/icons/user.png" class="search-icon"></a>
             </form>
 
         </div>
 
         <ul class="list-group giga nav-content nav" role="navigation">
-            <li class="list-group-item list-group-item-inline">
-                <a class="{% if page.url == '/' %}current{% endif %}" href="{{site.baseurl}}/">Home</a>
+            <li class="list-group-item list-group-item-inline {% if page.url == '/' %}current{% endif %}">
+                <a href="{{site.baseurl}}/">Home</a>
             </li>
 
 
@@ -58,11 +78,7 @@
     </div>
 </header>
 
-{% if page.showbanner %}
-    <div class="banner">
-        <h2>{{page.bannertext}}</h2>
-    </div>
-{% endif %}
+
 
 {{content}}
 

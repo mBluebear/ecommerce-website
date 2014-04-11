@@ -2,15 +2,16 @@
 .btn:link,
 .btn:visited {
 	display: inline-block;
-	padding: 0.5em 0.5em;
-	background-color: #F24150;
-	background-image: linear-gradient(to bottom, #F24150, #fe4655);
+	padding: 0.5em 2.5em;
 	border-radius: 5px;
 	box-shadow: 1px 1px 4px rgba(0,0,0,0.3);
 	border: 0px;
 	color: #fff;
-	font-weight: ;
-
+	text-transform: uppercase;
+    background: url(../images/button_03.png) repeat;
+}
+.btn:hover {
+    background: url(../images/button-hover_03.png) repeat;
 }
 
 .btn-alt,
