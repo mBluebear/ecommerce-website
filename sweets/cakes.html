@@ -1,6 +1,6 @@
 ---
 layout: sweets
-type: cake
+type: cakes
 ---
 
 
@@ -10,11 +10,11 @@ type: cake
         {% for sweets in site.pages %}
         {% if sweets.type == 'cake' %}
         <div class="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
-            <li>
+            <p>
                 <a href="{{site.baseurl}}{{sweets.url}}"><img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" class="img-flex"></a>
-            </li>
-            <li class="unit-s-1-2 unit-m-1-4 unit-l-1-4">{{sweets.title}}</li>
-            <li class="unit-s-1-2 unit-m-1-4 unit-l-1-4"> ${{sweets.price}}</li>
+            </p>
+            <p class="unit-s-1-2 unit-m-1-4 unit-l-1-4">{{sweets.title}}</p>
+            <p class="unit-s-1-2 unit-m-1-4 unit-l-1-4"> ${{sweets.price}}</p>
 
         </div>
         {% endif %}
