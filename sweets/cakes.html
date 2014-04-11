@@ -20,4 +20,24 @@ type: cakes
         {% endif %}
         {% endfor %}
     </div>
+
+    <div class="promo-small-div">
+        <h2 class="exa">Products Recommendation</h2>
+        <div class="grid">
+            <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4" id="berry-cake">
+                {% include promo-small.html title="Berry Cake" image="images/cupcake/1.jpg" link="/sweets/berry-cake"%}
+            </div>
+            <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
+                {% include promo-small.html title="Creamy Creme Brulee" link="/sweets/creamy-creme-Brulee" image="images/cupcake/2.jpg" %}
+            </div>
+
+            <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
+                {% include promo-small.html title="Chocolate Lovers" link="/sweets/chocolate-lovers" image="images/cupcake/3.jpg" %}
+            </div>
+
+            <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
+                {% include promo-small.html title="Chocolate Lovers" link="/sweets/chocolate-lovers" image="images/cupcake/3.jpg" %}
+            </div>
+        </div>
+    </div>
 </main>
