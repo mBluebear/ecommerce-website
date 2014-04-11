@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cupcake/4.jpg" afterPath="$PROJECT_DIR$/images/cupcake/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cupcake/5.jpg" afterPath="$PROJECT_DIR$/images/cupcake/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cake/c1.jpg" afterPath="$PROJECT_DIR$/images/cake/c1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cake/c2.jpg" afterPath="$PROJECT_DIR$/images/cake/c2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cake/c3.jpg" afterPath="$PROJECT_DIR$/images/cake/c3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cake/c4.jpg" afterPath="$PROJECT_DIR$/images/cake/c4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/cake/c5.jpg" afterPath="$PROJECT_DIR$/images/cake/c5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cakes.html" afterPath="$PROJECT_DIR$/sweets/cakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cupcakes.html" afterPath="$PROJECT_DIR$/sweets/cupcakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/sweet-nav.html" afterPath="$PROJECT_DIR$/_includes/sweet-nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/theme.css" afterPath="$PROJECT_DIR$/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/typography.css" afterPath="$PROJECT_DIR$/css/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sweets/cheese-cake.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ecommerce-website.iws" />
@@ -48,15 +35,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grid.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/grid.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="153" column="17" selection-start="2161" selection-end="2161" vertical-scroll-proportion="0.0" vertical-offset="6337" max-vertical-offset="7020">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sweet-nav.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/sweet-nav.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,6 +50,30 @@
             <state line="5" column="0" selection-start="35" selection-end="35" vertical-scroll-proportion="0.11792453" vertical-offset="0" max-vertical-offset="636">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tiramisu.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sweets/tiramisu.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="492" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cheese-cake.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sweets/cheese-cake.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="35" selection-start="238" selection-end="238" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="285">
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -120,15 +122,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="typography.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/typography.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="259" column="0" selection-start="3530" selection-end="3543" vertical-scroll-proportion="0.0" vertical-offset="3407" max-vertical-offset="4080">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -142,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/cupcake.html" />
         <option value="$PROJECT_DIR$/_layouts/sweet.html" />
         <option value="$PROJECT_DIR$/sweet/index.html" />
@@ -193,11 +185,13 @@
         <option value="$PROJECT_DIR$/_includes/sweet-nav.html" />
         <option value="$PROJECT_DIR$/sweets/cupcakes.html" />
         <option value="$PROJECT_DIR$/sweets/cakes.html" />
+        <option value="$PROJECT_DIR$/sweets/cheese-cake.md" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="-5" />
     <option name="y" value="22" />
     <option name="width" value="1311" />
     <option name="height" value="793" />
@@ -377,7 +371,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1311" height="793" extended-state="0" />
+    <frame x="-5" y="22" width="1311" height="793" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -425,11 +419,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/css/product-detail.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/css/typography.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="191" column="0" selection-start="2579" selection-end="2579" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="3780" />
@@ -464,14 +453,6 @@
     <entry file="file://$PROJECT_DIR$/sweets/strawberry-flan.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="7" selection-start="315" selection-end="315" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="270" />
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sweets/tiramisu.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="384" selection-end="384" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="315" />
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -770,6 +751,26 @@
         <state line="12" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sweets/tiramisu.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="492" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sweets/cheese-cake.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="35" selection-start="238" selection-end="238" vertical-scroll-proportion="-6.6666665" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sweets/cakes.html">
