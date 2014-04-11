@@ -1,0 +1,33 @@
+#search input[type="text"] {
+
+    background-color: #ffffff;
+    border: 2px solid #33cccc;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px;
+    box-shadow: inset 0px 0px 3px #3da6c4;
+    width: 100%;
+    max-width: 18em;
+
+}
+
+.search-icon {
+    vertical-align: text-bottom;
+    padding: 0 3px;
+}
+#cart-icon {
+    border-right: 1px #333 solid;
+    padding-right: 9px;
+}
+
+@media only screen and (min-width:60em) {
+
+    #search {
+        text-align: right;
+    }
+
+    #search input[type="text"] {
+        margin-right: 15px;
+
+    }
+}

@@ -1,0 +1,29 @@
+.current {
+    background-color: red;
+}
+
+.banner {
+
+
+}
+
+
+.left-text h2 {
+    color: #000;
+    margin-bottom: 0px;
+}
+.left-text {
+    position: absolute;
+    left: 35%;
+    top: 10%;
+}
+.right-text {
+    position: absolute;
+    right: 10%;
+    top: 10%;
+    color: #fff;
+}
+.right-text h2 {
+    color: #fff;
+    margin-bottom: 0px;
+}

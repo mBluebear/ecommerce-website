@@ -1,0 +1,34 @@
+.img-flex {
+	width:100%;
+	display: block;
+}
+
+.product {
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 1em;
+
+}
+
+.promo-large {
+    position: relative;
+}
+
+.promo-text {
+    position: absolute;
+    width: 40%;
+    height: 50%;
+    background: url(../images/big-promo-bg-square.png) repeat;
+    border-radius: 5px;
+    top: 30%;
+    left: 10%;
+    padding: 1%;
+}
+
+.promo-text h2 {
+
+}
+
+.promo-small-div{
+    margin: 1.5rem 8rem 1rem 8rem;
+}
