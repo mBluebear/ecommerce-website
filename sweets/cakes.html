@@ -1,17 +1,23 @@
 ---
 layout: sweets
+type: cake
 ---
 
-<h1>Cakes</h1>
-<ul>
-    {% for sweets in site.pages %}
-    {% if sweets.type == 'cake' %}
-    <li>
-        <a href="{{site.baseurl}}{{sweets.url}}">
-            <img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" class="img-flex">
-            {{sweets.title}}
-        </a>
-    </li>
-    {% endif %}
-    {% endfor %}
-</ul>
+
+
+<main class="grid">
+    <div class="promo-small-div">
+        {% for sweets in site.pages %}
+        {% if sweets.type == 'cake' %}
+        <div class="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
+            <li>
+                <a href="{{site.baseurl}}{{sweets.url}}"><img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" class="img-flex"></a>
+            </li>
+            <li class="unit-s-1-2 unit-m-1-4 unit-l-1-4">{{sweets.title}}</li>
+            <li class="unit-s-1-2 unit-m-1-4 unit-l-1-4"> ${{sweets.price}}</li>
+
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+</main>

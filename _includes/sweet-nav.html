@@ -1,6 +1,8 @@
-<nav>
+<nav class="subnav giga" role="sub-navigation">
     <ul>
-        <li><a href="{{site.baseurl}}/sweets/cakes/">Cakes</a></li>
-        <li><a href="{{site.baseurl}}/sweets/cupcakes/">Cupcakes</a></li>
+        <li class="list-group-item-inline {% if page.url == "/sweets/cakes" %}current{% endif %}">
+        <a href="{{site.baseurl}}/sweets/cakes/">Cakes</a></li>
+        <li class="list-group-item-inline {% if page.url == "/sweets/cupcakes" %}current{% endif %}">
+        <a href="{{site.baseurl}}/sweets/cupcakes/">Cupcakes</a></li>
     </ul>
 </nav>
