@@ -171,12 +171,24 @@ a:link {
 
 }
 
-
 a:hover,
 a:focus,
 a:active {
 	color: #f24150;
+}
 
+a:hover,
+a:active {
+    /* It's okay to remove the focus rectangle for mouse state */
+    outline: none;
+
+}
+
+a:focus,
+input:focus,
+button:focus {
+    /*the focus rectangle MUST ALWAYS be visible for keyboard states */
+    outline: 3px solid #000;
 }
 
 .light-green {
@@ -244,3 +256,7 @@ ul li:before {
   padding-top: 1em;
 }
 
+.block-link {
+    display: block;
+
+}
