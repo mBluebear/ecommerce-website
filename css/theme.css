@@ -27,6 +27,16 @@ body {
     text-align: center;
 }
 
+.welcome {
+    position: absolute;
+    width: 70%;
+    height: 50%;
+    top: 16%;
+    left: 30%;
+    right: 10%;
+    padding: 1%;
+}
+
 @media only screen and (min-width:20em) {
     #search {
         text-align: center;
