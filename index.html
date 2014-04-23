@@ -8,7 +8,7 @@ showbanner: yes
 <main role="main">
 {% include promo-large.html %}
 
-    <div class="promo-large">
+    <div style="position:relative">
         <img src="{{site.baseurl}}/images/welcome-img.jpg" class="img-flex">
         <div class="welcome">
              <h1>Welcome to Tasting Treats</h1>
@@ -16,8 +16,8 @@ showbanner: yes
         </div>
     </div>
 
+    <h2 class="exa home_title">Products Recommendation</h2>
     <div class="promo-small-div">
-        <h2 class="exa">Products Recommendation</h2>
         <div class="grid">
             <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4" id="berry-cake">
                 {% include promo-small.html title="Berry Cake" image="images/cupcake/1.jpg" link="/sweets/berry-cake"%}

@@ -4,13 +4,6 @@ body {
 	padding:0;
 }
 
-
-.footer {
-	background-color: #FF5D3C;
-    color: #fff;
-}
-
-
 .logo {
 	max-width: 220px;
 	margin: 1rem auto;
@@ -37,6 +30,19 @@ body {
     padding: 1%;
 }
 
+.home_title {
+    background: #ff3300;
+    color: #fff;
+    width: 500px;
+    text-align: right;
+    padding: 0.2em 0.8em;
+}
+
+.img-wrapper {
+    padding: 5px;
+    box-shadow: 2px 2px 4px #ccc;
+}
+
 @media only screen and (min-width:20em) {
     #search {
         text-align: center;
@@ -49,6 +55,7 @@ body {
     .logo {
         text-align: center;
     }
+
 }
 
 
@@ -111,6 +118,7 @@ body {
     .logo {
         margin: 12px 0px 0px 20px;
     }
+
 }
 
 

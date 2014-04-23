@@ -3,8 +3,8 @@
 }
 
 .banner {
-
-
+    /*background: url(../images/banner.png) no-repeat;
+    height: 189px;*/
 }
 
 
@@ -14,16 +14,22 @@
 }
 .left-text {
     position: absolute;
-    left: 35%;
-    top: 10%;
+    left: 34%;
+    top: 5%;
 }
 .right-text {
     position: absolute;
-    right: 10%;
-    top: 10%;
+    right: 7%;
+    top: 5%;
     color: #fff;
 }
 .right-text h2 {
     color: #fff;
     margin-bottom: 0px;
+}
+
+@media only screen and (max-width:60em) {
+    .banner {
+        display: none;
+    }
 }

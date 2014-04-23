@@ -12,6 +12,9 @@
 
 .promo-large {
     position: relative;
+    background: url(../images/big-promo.jpg) no-repeat center ;
+    height: 500px;
+    background-size: cover;
 }
 
 .promo-text {
@@ -26,9 +29,29 @@
 }
 
 .promo-text h2 {
-
+    color: #333;
+    font-size: 2.5em;
+    font-weight: normal;
+    line-height: 1.2;
 }
 
 .promo-small-div{
     margin: 1.5rem 8rem 1rem 8rem;
+}
+
+.promo-small p {
+    color: #333;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width:30em) {
+    .promo-text h2 {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (max-width:60em) {
+    .promo-text {
+        width: 80%;
+    }
 }

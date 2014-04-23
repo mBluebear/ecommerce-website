@@ -11,3 +11,9 @@
 }
 
 
+.footer {
+    background: url(../images/footer.jpg);
+    height: 320px;
+    color: #fff;
+    text-align: center;
+}
