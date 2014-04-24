@@ -1,3 +1,11 @@
+.product-option {
+    padding: 0px;
+}
+
+.product-option li {
+    margin-bottom: 10px;
+}
+
 .product-option li strong {
 	width: 130px;
 	display: inline-block;

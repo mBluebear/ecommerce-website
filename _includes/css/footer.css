@@ -16,4 +16,45 @@
     height: 320px;
     color: #fff;
     text-align: center;
+    color: #fff;
+}
+
+.footer-nav {
+    margin-top: 10px;
+    padding-left: 0px;
+}
+.footer-nav li {
+    margin: 0px 25px;
+}
+.footer-nav a {
+    font-size: 1.5em;
+    color: #fff;
+}
+
+#backtotop {
+    display: inline-block;
+    background: url(../images/icons/uptotop-icon.png) no-repeat;
+    width: 46px;
+    height: 49px;
+}
+#backtotop:hover {
+    background: url(../images/icons/uptotop-hover.png) no-repeat;
+}
+
+.footer-text {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.footer-text ul {
+    font-size: 1.2em;
+    display: inline-block;
+    text-align: left;
+    padding-left: 0px;
+}
+
+@media only screen and (max-width:30em) {
+    .footer-nav li {
+        margin: 0px 12px;
+    }
 }

@@ -8,7 +8,7 @@
     box-shadow: inset 0px 0px 3px #3da6c4;
     width: 100%;
     max-width: 18em;
-
+    margin-bottom: 10px;
 }
 
 .search-icon {
@@ -16,8 +16,7 @@
     padding: 0 3px;
 }
 #cart-icon {
-    border-right: 1px #333 solid;
-    padding-right: 9px;
+    padding: 0px 10px;
 }
 
 @media only screen and (min-width:60em) {

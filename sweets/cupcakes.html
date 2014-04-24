@@ -3,15 +3,15 @@ layout: sweets
 type: cupcakes
 ---
 
-<main class="grid">
-    <div class="promo-small-div">
+<main class="">
+    <div class="promo-small-div grid">
         {% for sweets in site.pages %}
         {% if sweets.type == 'cupcake' %}
         <div class="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4">
             <p>
-                <a href="{{site.baseurl}}{{sweets.url}}"><img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" class="img-flex"></a>
+                <a href="{{site.baseurl}}{{sweets.url}}"><img src="{{site.baseurl}}/images/{{sweets.image}}" alt="" class="img-flex img-wrapper"></a>
             </p>
-            <o class="unit-s-1-2 unit-m-1-4 unit-l-1-4">{{sweets.title}}</p>
+            <p class="unit-s-1-2 unit-m-1-4 unit-l-1-4">{{sweets.title}}</p>
             <p class="unit-s-1-2 unit-m-1-4 unit-l-1-4"> ${{sweets.price}}</p>
 
         </div>
@@ -22,7 +22,7 @@ type: cupcakes
 
 
     <div class="promo-small-div">
-        <h2 class="exa">Products Recommendation</h2>
+        <h2  class="exa home_title">Products Recommendation</h2>
         <div class="grid">
             <div class ="gutter-small unit unit-s-1-2 unit-m-1-4 unit-l-1-4" id="berry-cake">
                 {% include promo-small.html title="Berry Cake" image="images/cupcake/1.jpg" link="/sweets/berry-cake"%}

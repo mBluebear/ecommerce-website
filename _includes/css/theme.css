@@ -22,12 +22,12 @@ body {
 
 .welcome {
     position: absolute;
-    width: 70%;
-    height: 50%;
-    top: 16%;
+    top: 5%;
     left: 30%;
-    right: 10%;
     padding: 1%;
+}
+.welcome h1 {
+    margin-bottom: 2%;
 }
 
 .home_title {
@@ -43,6 +43,11 @@ body {
     box-shadow: 2px 2px 4px #ccc;
 }
 
+.home_welcome {
+    min-height:180px;
+    position:relative;
+}
+
 @media only screen and (min-width:20em) {
     #search {
         text-align: center;
@@ -55,7 +60,29 @@ body {
     .logo {
         text-align: center;
     }
+    .home_welcome img {
+        display: none;
+    }
+    .welcome {
+        left: 0px;
+    }
+    .home_title {
+        text-align: center;
+        font-size: 1.5rem;
+        width: 100%;
+    }
+}
 
+@media only screen and (max-width:60em) {
+
+    .welcome h1 {
+        margin-bottom: 1%;
+        font-size: 1.2rem;
+    }
+
+    .welcome p {
+        font-size: 12px;
+    }
 }
 
 
@@ -96,29 +123,28 @@ body {
 
 .subnav ul {
     text-align: center;
+    margin-bottom: 0px;
 }
 
 .subnav li {
-    padding: 1rem 2rem;
+    margin: 1rem 2rem;
+    padding-bottom: 0.5rem;
 }
 
-.subnav .current a {
-    border-bottom: 1px solid black;
+.subnav .current {
+    border-bottom: 2px solid #f24150;
 
 }
-@media only screen and (min-width:60em) {
-	.nav {
-        width: 100%;
-		text-align: center;
-        background: #78dbf2 url(../images/nav-bg.png);
-        margin: 0px;
-        padding-right: 20px;
-        height: 59px;
-	}
-    .logo {
-        margin: 12px 0px 0px 20px;
-    }
-
+.nav {
+    width: 100%;
+    text-align: center;
+    background: #78dbf2 url(../images/nav-bg.png);
+    margin: 0px;
+    padding-right: 20px;
+    height: 59px;
+}
+.logo {
+    margin: 12px 0px 0px 20px;
 }
 
 
