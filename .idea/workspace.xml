@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cakes.html" afterPath="$PROJECT_DIR$/sweets/cakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/chocolate-lovers.md" afterPath="$PROJECT_DIR$/sweets/chocolate-lovers.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cupcakes.html" afterPath="$PROJECT_DIR$/sweets/cupcakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/footer.css" afterPath="$PROJECT_DIR$/_includes/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/forms.css" afterPath="$PROJECT_DIR$/_includes/css/forms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/happy-birthday.md" afterPath="$PROJECT_DIR$/sweets/happy-birthday.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/header.css" afterPath="$PROJECT_DIR$/_includes/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/newyork-cheesecake.md" afterPath="$PROJECT_DIR$/sweets/newyork-cheesecake.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/product-detail.css" afterPath="$PROJECT_DIR$/_includes/css/product-detail.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styleguide/product-details.html" afterPath="$PROJECT_DIR$/styleguide/product-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/product.html" afterPath="$PROJECT_DIR$/_layouts/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/promos.css" afterPath="$PROJECT_DIR$/_includes/css/promos.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/strawberry-flan.md" afterPath="$PROJECT_DIR$/sweets/strawberry-flan.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/sweet-nav.html" afterPath="$PROJECT_DIR$/_includes/sweet-nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/theme.css" afterPath="$PROJECT_DIR$/_includes/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/candy-lovers.md" afterPath="$PROJECT_DIR$/sweets/candy-lovers.md" />
     </list>
     <ignored path="ecommerce-website.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,10 +34,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="candy-lovers.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="candy-lovers.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sweets/candy-lovers.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="12" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.26745912" vertical-offset="0" max-vertical-offset="673">
               <folding />
             </state>
           </provider>
@@ -72,13 +55,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="coconut-cake.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="coconut-cake.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sweets/coconut-cake.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="0.13931888" vertical-offset="0" max-vertical-offset="646">
+            <state line="13" column="0" selection-start="264" selection-end="264" vertical-scroll-proportion="-7.2222223" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -152,7 +135,6 @@
         <option value="$PROJECT_DIR$/sweets/index.html" />
         <option value="$PROJECT_DIR$/sweets/berry-cake.md" />
         <option value="$PROJECT_DIR$/css/grid.css" />
-        <option value="$PROJECT_DIR$/sweets/candy-lovers.md" />
         <option value="$PROJECT_DIR$/styleguide/search-field.html" />
         <option value="$PROJECT_DIR$/sweets/coconut-cake.md" />
         <option value="$PROJECT_DIR$/sweets/creamy-creme-brulee.md" />
@@ -193,6 +175,7 @@
         <option value="$PROJECT_DIR$/sweets/newyork-cheesecake.md" />
         <option value="$PROJECT_DIR$/sweets/strawberry-flan.md" />
         <option value="$PROJECT_DIR$/sweets/chocolate-lovers.md" />
+        <option value="$PROJECT_DIR$/sweets/candy-lovers.md" />
       </list>
     </option>
   </component>
@@ -703,13 +686,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sweets/candy-lovers.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sweets/flourless-chocolate-cake.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -735,7 +711,14 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="7" selection-start="188" selection-end="188" vertical-scroll-proportion="0.13931888" vertical-offset="0" max-vertical-offset="646">
+        <state line="13" column="0" selection-start="264" selection-end="264" vertical-scroll-proportion="-7.2222223" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sweets/candy-lovers.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="294" selection-end="294" vertical-scroll-proportion="0.26745912" vertical-offset="0" max-vertical-offset="673">
           <folding />
         </state>
       </provider>
