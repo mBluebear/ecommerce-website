@@ -55,6 +55,9 @@ body {
 .price {
     color: #ff3300 !important;
 }
+.tax p {
+    margin-bottom: 0px;
+}
 
 .heading {
     text-align: center;

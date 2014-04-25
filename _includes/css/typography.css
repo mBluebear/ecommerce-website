@@ -189,12 +189,11 @@ a:active {
 
 }
 
-a:focus,
+/*a:focus,
 input:focus,
 button:focus {
-    /*the focus rectangle MUST ALWAYS be visible for keyboard states */
     outline: 3px solid #000;
-}
+}*/
 
 .light-green {
   padding-top: 0.5rem;
