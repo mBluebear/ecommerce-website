@@ -1,17 +1,15 @@
 # humanstxt.org
 
-# TEAM
+/* Designer */
+	Quynh Nguyen
+	tquynh1112@yahoo.com
+	From: Ottawa, Canada.
 
 
 
 ---
 
-# THANKS
-
-Public domain images from copyrightexpired.com
-
----
-
-# TECHNOLOGY
+/* THANKS */Lea CsontosFrom: Hungary for the awesome image of Strawberry Cakehttp://www.freeimages.com/photo/1186290Wong Mei Teng from Kuala Lumpur, Malaysiahttp://www.freeimages.com/photo/1429785Brandon van EedenFrom: Durban, KZN, South Africahttp://www.freeimages.com/photo/1161636grs84pl from Polandhttp://www.freeimages.com/photo/1437590Raphael Pinto (www.4mixdesign.com)From: Curitiba, Parana, Brazilhttp://www.freeimages.com/photo/1364674Marju Randmehttps://www.flickr.com/photos/isutekitaja/5425254822/Eva Bluehttps://www.flickr.com/photos/evablue/4099570311	La-fontainehttp://pixabay.com/en/cake-christmas-fruit-champagne-205245/http://pixabay.com/en/cake-rose-dessert-food-sweet-92600/http://pixabay.com/en/cake-cheese-tart-dessert-191011/?oq=cakeWusya From Latviahttp://pixabay.com/en/blueberry-cheesecake-berry-berries-320758/?oq=cake
 
 
+---	/* SITE */	Last update: 2014/04/24	Language: English	Doctype:	HTML5, CSS	IDE: Php Storm, Photoshop, Illustrator

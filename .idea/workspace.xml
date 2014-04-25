@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cakes.html" afterPath="$PROJECT_DIR$/sweets/cakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cart.html" afterPath="$PROJECT_DIR$/cart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/cupcakes.html" afterPath="$PROJECT_DIR$/sweets/cupcakes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sweets/index.html" afterPath="$PROJECT_DIR$/sweets/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/product.html" afterPath="$PROJECT_DIR$/_layouts/product.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thank-you.html" afterPath="$PROJECT_DIR$/thank-you.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/theme.css" afterPath="$PROJECT_DIR$/_includes/css/theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/typography.css" afterPath="$PROJECT_DIR$/_includes/css/typography.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="361d6e45-390b-45f5-b071-0ecab0ebfc64" name="Default" comment="" />
     <ignored path="ecommerce-website.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
