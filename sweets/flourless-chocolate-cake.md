@@ -8,9 +8,7 @@ price: 4.50
 image: cake/c2.jpg
 ---
 
-## Features:
-- Flourless
-- Gluten-free
+
 
 ![]({{site.baseurl}}/images/cake/c2.jpg)
 

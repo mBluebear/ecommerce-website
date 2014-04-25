@@ -48,6 +48,21 @@ body {
     position:relative;
 }
 
+.pad-all {
+    padding: 1% 5%;
+}
+
+.price {
+    color: #ff3300 !important;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    width: 100%;
+}
+
 @media only screen and (min-width:20em) {
     #search {
         text-align: center;

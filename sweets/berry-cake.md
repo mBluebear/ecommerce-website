@@ -8,5 +8,4 @@ price: 4.5
 image: cake/c1.jpg
 ---
 
-![](class="img-flex" {{site.baseurl}}/images/cake/c1.jpg)
-
+![]({{site.baseurl}}/images/cake/c1.jpg)
